@@ -1,2 +1,2 @@
 # SoFR-ME
-This repositoty contain code propose for our SoFR paper (Forthcoming).
+This repository contains R codes implementing our approach proposed in the (Bayesian) SoFR paper (Forthcoming).
